@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NEXTGEN AI</string>
+    <string name="tagline">One Prompt. Infinite Possibilities.</string>
+    <string name="studio_title">AI Creation Studio</string>
+    <string name="long_video_generator">Long Video Generator</string>
+    <string name="movie_studio">Movie Studio</string>
+    <string name="image_studio">Image Studio</string>
+    <string name="voice_studio">Voice Studio</string>
+    <string name="music_studio">Music Studio</string>
+    <string name="video_editor">Video Editor</string>
+    <string name="app_builder">App Builder</string>
+    <string name="website_builder">Website Builder</string>
+    <string name="creative_tools">Creative Tools</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="projects">Projects</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="generate_movie">Generate Movie</string>
+    <string name="credits_balance">Credits</string>
+</resources>

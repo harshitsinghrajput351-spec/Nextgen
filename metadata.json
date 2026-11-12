@@ -1,0 +1,6 @@
+{
+  "name": "NEXTGEN AI",
+  "description": "Ultimate AI Creation Studio for long cinematic movies, videos, images, music, voices, web, and Android apps",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
